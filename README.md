@@ -1,2 +1,1 @@
-# LUCID-AD
-Likelihood-based Uncertainty &amp; Consistency Inference for Diagnostics
+A ML pipeline for denoising protoplanetary disks.
